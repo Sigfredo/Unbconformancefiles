@@ -1,0 +1,3 @@
+[divergence],[br.unb.web.siex.visao.EmitirHistoricoMembroVisao,access,br.unb.web.siex.persistencia.AlocaMembroExtensaoDAO],[visao cannot-access persistencia]
+[divergence],[br.unb.web.siex.visao.EmitirHistoricoMembroVisao,access,br.unb.web.siex.persistencia.MembroExtensaoDAO],[visao cannot-access persistencia]
+[divergence],[br.unb.web.siex.visao.ManterPropostaFormularioVisao,access,br.unb.web.siex.persistencia.OrgaoExternoParceriaDAO],[visao cannot-access persistencia]

@@ -1,0 +1,7 @@
+[divergence],[fublib.frmMensagem,access,MSMask.MaskEdBox],[only siac can-access msMask]
+[divergence],[fublibs.Biblioteca,access,Screen.MousePointer],[biblioteca cannot-access screen]
+[divergence],[Siac.frmALUDIP,access,App.Path],[siac cannot-access app]
+[divergence],[fublibs.frmMensagem,access,MSMask.MaskEdBox],[only siac can-access msMask]
+[divergence],[Siac.frmALUCMP,access,Printer.ScaleTop],[only biblioteca can-access printer]
+[divergence],[Siac.frmALUCMP,access,Printer.ScaleLeft],[only biblioteca can-access printer]
+[divergence],[fublib.Biblioteca,access,Screen.MousePointer],[biblioteca cannot-access screen]

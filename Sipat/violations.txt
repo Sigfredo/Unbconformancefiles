@@ -1,0 +1,7 @@
+[divergence],[sipat.relConstrutor,access,App.Path],[sipat cannot-access app]
+[divergence],[fublib.frmMensagem,access,MSMask.MaskEdBox],[only sipat can-access msMask]
+[divergence],[fublibs.Biblioteca,access,Screen.MousePointer],[biblioteca cannot-access screen]
+[divergence],[fublib.Biblioteca,access,Screen.MousePointer],[biblioteca cannot-access screen]
+[divergence],[sipat.frmRelHistoricoOS,access,Printer.PaperSize],[only biblioteca can-access printer]
+[divergence],[fublibs.frmMensagem,access,MSMask.MaskEdBox],[only sipat can-access msMask]
+[divergence],[sipat.frmGenerico,access,Printer.FontCount],[only biblioteca can-access printer]

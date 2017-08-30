@@ -1,0 +1,5 @@
+[absence],[br.unb.web.sca.visao.SistemaVisao,extend,basevisao],[visao must-extend basevisao]
+[absence],[br.unb.web.sca.negocio.DadosLogNegocioImpl,implement,basenegocio],[negocio must-implement basenegocio]
+[absence],[br.unb.web.sca.visao.MenuVisao,extend,basevisao],[visao must-extend basevisao]
+[absence],[br.unb.web.sca.visao.AcessoVisao,extend,basevisao],[visao must-extend basevisao]
+[absence],[br.unb.web.sca.visao.UsuarioVisao,extend,basevisao],[visao must-extend basevisao]
